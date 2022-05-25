@@ -1,0 +1,45 @@
+
+body
+{
+    background: #ffffff;
+}
+
+h3
+{
+    text-align:  center;
+}
+
+.row
+{
+    background-color: #517470;
+}
+
+h2
+{
+    text-align: center;
+}
+
+table
+{
+    background-color: #ffff;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+
+}
+
+th, td{
+    border: solid 1px black;
+    padding: 10px;
+}
+thead
+{
+    background-color: #517470;
+    border-bottom: solid 5px;
+    color: rgb(0, 0, 0);
+}
+
+input
+{
+    background-color: aqua;
+}
